@@ -16,7 +16,7 @@ public class Day1 {
 
 		ii = scan.nextInt();
 		dd = scan.nextDouble();
-		ss = scan.next();
+		ss = scan.next(); //Can scan next word in the line and not the full input line
 		ss = ss + scan.nextLine(); //Need to scan one more time to get full line as input
 
 		System.out.println(i + ii);
