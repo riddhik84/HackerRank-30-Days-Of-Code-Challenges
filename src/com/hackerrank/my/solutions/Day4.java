@@ -1,7 +1,7 @@
 package com.hackerrank.my.solutions;
 
 import java.util.Scanner;
-
+//Changed Person class name to Day4
 public class Day4 {
 	private int age;	
 
