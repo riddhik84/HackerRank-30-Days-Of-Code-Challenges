@@ -14,6 +14,8 @@ public class Day9 {
 	static int factorial(int num){
 		if(num > 1){
 			return num * factorial(num - 1);
+		} else if(num <= 0){
+			return 0;
 		} else {
 			return num;
 		}
