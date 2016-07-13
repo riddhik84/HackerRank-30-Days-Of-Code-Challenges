@@ -2,6 +2,10 @@ package com.hackerrank.my.solutions;
 
 import java.util.Scanner;
 
+/*
+ * Solution referenced from discussion help topics
+ */
+
 public class Day15 {
 	//static LinkedList<Node> linkedList = new LinkedList<>();
 
