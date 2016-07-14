@@ -24,3 +24,44 @@ The tutorial is Java-based, but you can also choose other popular languages to s
 [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)
 
 [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion)
+
+[Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers)
+
+[Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)
+
+[Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance)
+
+[Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)
+
+[Day 14: Scope](https://www.hackerrank.com/challenges/30-scope)
+
+[Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list)
+
+[Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
+
+[Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)
+
+[Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)
+
+[Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces)
+
+[Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting)
+
+[Day 21: Generics](https://www.hackerrank.com/challenges/30-generics)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
