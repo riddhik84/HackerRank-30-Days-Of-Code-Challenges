@@ -2,6 +2,7 @@
  * @author Riddhi Kakadia
  */
 
+
 package com.hackerrank.my.solutions;
 
 public class Day21 {
