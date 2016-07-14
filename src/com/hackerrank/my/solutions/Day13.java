@@ -1,3 +1,8 @@
+/**
+ * @author Riddhi Kakadia
+ */
+
+
 package com.hackerrank.my.solutions;
 
 import java.util.Scanner;
