@@ -49,19 +49,19 @@ The tutorial is Java-based, but you can also choose other popular languages to s
 
 [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics)
 
-[]()
+[Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)
 
-[]()
+[Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)
 
-[]()
+[Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)
 
-[]()
+[Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)
 
-[]()
+[Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)
 
-[]()
+[Day 27: Testing](https://www.hackerrank.com/challenges/30-testing)
 
-[]()
+[Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns)
 
-[]()
+[Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and)
 
